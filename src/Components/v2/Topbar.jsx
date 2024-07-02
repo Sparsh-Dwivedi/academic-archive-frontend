@@ -31,12 +31,14 @@ const Container=styled.div`
 const Right=styled.div`
     margin:2rem;
     font-size: 2rem;
+    color:black;
     font-family: math;
 `
 const Left=styled.div`
     margin:2rem;
     display:flex;
     align-items:center;
+    color:	#000080;
     font-size:1.5rem;
 `
 const Topbar = () => {
