@@ -5,7 +5,7 @@ const Container=styled.div`
     z-index:1000;
     width:100%;
     height:2.5rem;
-    background-color: #e0e8fd;
+    background-color: #483d8b;
     display: flex;
     align-items: center;
     color:#E77EEE;
